@@ -46,41 +46,11 @@ Sample data files are available in the [`data`](data) folder.
 
 ### Dashboard Overview
 
-![Dashboard Overview](assets/dashboard-overview.png)
-
-### Sales Trend
-
-![Sales Trend](assets/sales-trend.png)
-
-### Marketing vs Sales
-
-![Marketing vs Sales](assets/marketing-vs-sales.png)
-
-### Sales by Product Category
-
-![Sales by Product Category](assets/sales-by-category.png)
-
-### Discount Analysis
-
-![Discount Analysis](assets/discount-analysis.png)
-
-### Customer Segments
-
-![Customer Segments](assets/customer-segments.png)
-
-## Tableau Story Screenshots
+!(assets/dashboard-overview.png)
 
 ### Story Overview
 
-![Story Overview](assets/story-overview.png)
-
-### Category and Marketing Analysis
-
-![Story Category and Marketing](assets/story-category-marketing.png)
-
-### Profitability and Forecast Analysis
-
-![Story Profitability and Forecast](assets/story-profitability-forecast.png)
+!(assets/story-overview.png)
 
 ## Tableau Workbooks
 
