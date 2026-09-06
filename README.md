@@ -46,11 +46,11 @@ Sample data files are available in the [`data`](data) folder.
 
 ### Dashboard Overview
 
-!(assets/dashboard-overview.png)
+dashboard-overview.png
 
 ### Story Overview
 
-!(assets/story-overview.png)
+story-overview.png
 
 ## Tableau Workbooks
 
@@ -62,8 +62,6 @@ tableau-workbooks/
 
 Included workbooks:
 
-- `sales-1.twb`
-- `sales-2.twb`
 - `sales-3.twb`
 
 ## Project Report
