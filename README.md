@@ -46,11 +46,11 @@ Sample data files are available in the [`data`](data) folder.
 
 ### Dashboard Overview
 
-dashboard-overview.png
+![Dashboard Overview](dashboard-overview.png)
 
 ### Story Overview
 
-story-overview.png
+![Story Overview](story-overview.png)
 
 ## Tableau Workbooks
 
