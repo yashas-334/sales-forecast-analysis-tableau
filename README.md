@@ -42,15 +42,9 @@ The superstore dataset includes order, customer, region, category, sub-category,
 
 Sample data files are available in the [`data`](data) folder.
 
-## Dashboard Screenshots
+## Dashboard Screenshot
 
-### Dashboard Overview
-
-![Dashboard Overview](dashboard-overview.png)
-
-### Story Overview
-
-![Story Overview](story-overview.png)
+![Sales Forecast Dashboard](dashboard.png)
 
 ## Tableau Workbooks
 
@@ -62,6 +56,8 @@ tableau-workbooks/
 
 Included workbooks:
 
+- `sales-1.twb`
+- `sales-2.twb`
 - `sales-3.twb`
 
 ## Project Report
