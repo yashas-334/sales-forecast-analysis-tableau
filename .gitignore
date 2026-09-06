@@ -1,0 +1,11 @@
+# Local/system files
+.DS_Store
+Thumbs.db
+*.log
+
+# Tableau temporary/recovery files
+~*.twbr
+
+# Avoid accidentally adding large raw datasets
+*.csv
+!data/*sample.csv
