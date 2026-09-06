@@ -55,9 +55,6 @@ tableau-workbooks/
 ```
 
 Included workbooks:
-
-- `sales-1.twb`
-- `sales-2.twb`
 - `sales-3.twb`
 
 ## Project Report
