@@ -24,7 +24,6 @@ Organizations use sales analytics to understand revenue performance, customer be
 | Visualization | Tableau |
 | Data Analysis | Calculated fields, filters, charts, dashboards |
 | Datasets | Ecommerce sales data, Superstore sales data |
-| Reporting | Mini project report |
 
 ## Dataset Fields
 
